@@ -29,14 +29,14 @@ const content = {
     //   "classic" = clean and friendly (the default)
     //   "techy"   = dark terminal vibes, one tab per section (always dark, always monospace)
     //   "fancy"   = big serif headings, an arched photo, swipeable project cards
-    style: "classic",
+    style: "fancy",
 
     // Pick a preset: "coral", "ocean", "grape", "forest", "sunset", "bubblegum"
     // ...or use any hex color like "#ff6b9d".
-    accent: "ocean",
+    accent: "grape",
 
     // Pick a font: "modern", "serif", "rounded", "mono"
-    font: "modern",
+    font: "serif",
 
     // "auto" follows the visitor's device. You can also force "light" or "dark".
     // (The "techy" look is always dark.)
